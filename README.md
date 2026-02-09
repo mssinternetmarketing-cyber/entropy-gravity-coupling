@@ -1,2 +1,6 @@
-# entropy-gravity-coupling
-LaTeX source and supplementary materials for “Gravitational Coupling to Entanglement Entropy Density”: derivation of an entanglement–gravity source term and a falsifiable atom interferometry protocol.
+# Gravitational Coupling to Entanglement Entropy Density
+
+This repository contains the LaTeX source and bibliography for the paper
+“Gravitational Coupling to Entanglement Entropy Density”, including the
+derivation of the entanglement–gravity coupling and the proposed atom
+interferometry falsification protocol.
